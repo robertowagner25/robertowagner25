@@ -1,16 +1,15 @@
-## Hi there 👋
+## Boas vindas ao meu Perfil 🎶
 
-<!--
-**robertowagner25/robertowagner25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu nome é Roberto Wagner
 
-Here are some ideas to get you started:
+- Estou esdudando no [Alura](http://www.alura.com.br)
+- Estou me desenvolvendo em JavaScript
+- Utilizo este espaço para me organizar e compartilhamento dos meu projetos desenvolvidos
+### Você pode entrar em contato comigo 📫
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+roberto22wagner@gmail.com
+
+
+
+
+![](https://media1.tenor.com/m/gpLODAu05x4AAAAC/spaceship-ignace-aleya.gif)
